@@ -20,6 +20,7 @@ namespace ClearDraw
     /// </summary>
     public partial class MainWindow : Window
     {
+        //testing
         public bool _LightOrDark;
         Line newLine;
         Point start;
